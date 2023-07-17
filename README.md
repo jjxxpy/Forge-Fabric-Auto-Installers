@@ -1,2 +1,2 @@
 # Forge-Fabric-Auto-Installers
-Install P
+Install Forge/Fabric with one swoop of a click!
